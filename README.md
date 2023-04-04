@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahq76
-- 👀 I’m interested in being an app developer/game developing 
-- 🌱 I’m currently learning IOS depelopment
+- 👀 I’m very into data analysis im investing my time in python,sql,R
+- 🌱 I’m currently learning Python for Data Analysis
 - 📫 How to reach me sarahqassim7676@gmail.com
 
 <!---
